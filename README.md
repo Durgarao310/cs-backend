@@ -23,7 +23,7 @@ backend source for cs7
 
 `npm run dev`
 
-# coderooms uses peerjs for peer-to-peer video chat
+#  uses peerjs for peer-to-peer video chat
 
 `npm install -g peer`
 
